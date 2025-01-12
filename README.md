@@ -30,7 +30,7 @@ I'm a passionate software developer from Türkiye
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cemtopkaya&layout=compact&theme=radical)
 
 ### 🔧 Skills Word Cloud
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,php,angular,javascript,docker,kubernetes,mongodb,mysql,postgresql,git,svn,jenkins,nginx,aws,ubuntu,ruby,openstack,terraform,ansible,rabbitmq,redis)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,php,angular,javascript,docker,kubernetes,mongodb,mysql,postgresql,git,jenkins,nginx,aws,ubuntu,ruby,openstack,terraform,ansible,elasticsearch,rabbitmq,redis,grafana,prometheus)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cemtopkaya)
